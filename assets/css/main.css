@@ -1290,7 +1290,7 @@ input, select, textarea {
 				display: none;
 			}
 
-			/* ######## */
+			/* ########################################################################## */
 
 		.headerImage {
 			/* border-radius: 2000px; */
@@ -1312,7 +1312,29 @@ input, select, textarea {
 		.techLogoImg {
 			width: 60px;
 		}
-			/* ######## */
+
+		.profileImage {
+			border-radius: 4px;
+		}
+
+		.pageTitle {
+			text-decoration: underline;
+			margin-bottom: 70px;
+			font-size: 2em;
+		}
+
+		.portfolioTitle {
+			font-size: 2em;
+			text-decoration: underline;
+			margin-bottom: 50px;
+		}
+
+		.titleDiv {
+			text-align: center;
+			margin-bottom: 70px;
+		}
+
+			/* ########################################################################## */
 
 		#header .logo {
 			/* width: 5.5rem;
@@ -1384,14 +1406,15 @@ input, select, textarea {
 
 				#header nav ul li a {
 					display: block;
-					min-width: 7.5rem;
+					min-width: 8.5rem;
 					height: 2.75rem;
 					line-height: 2.75rem;
-					padding: 0 1.25rem 0 1.45rem;
+					/* padding: 0 1.25rem 0 1.45rem; */
 					text-transform: uppercase;
 					letter-spacing: 0.2rem;
 					font-size: 0.8rem;
 					border-bottom: 0;
+					/* margin: 0 10px; */
 				}
 
 					#header nav ul li a:hover {
