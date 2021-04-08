@@ -1334,6 +1334,11 @@ input, select, textarea {
 			margin-bottom: 70px;
 		}
 
+		.resumeLinkButton {
+			text-align: center;
+			border: solid white 2px;
+		}
+
 			/* ########################################################################## */
 
 		#header .logo {
