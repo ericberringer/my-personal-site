@@ -1339,6 +1339,10 @@ input, select, textarea {
 			border: solid white 2px;
 		}
 
+		.currencyKidzTitle {
+			margin: 50px 0 0 0;
+		}
+
 			/* ########################################################################## */
 
 		#header .logo {
